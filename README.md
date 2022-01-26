@@ -8,8 +8,6 @@ Tal postagem é referente ao trabalho da segunda unidade da disciplina de Análi
 
 Nesse repositório, estaremos realizando um estudo da rede de coocorrência formada por artistas presentes em playlists do Spotify, utilizando como base dados fornecidos em 2018 pelo próprio Spotify no [The Spotify Million Playlist Dataset Challenge](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge).
 
-![img](https://miro.medium.com/max/60/1*ekbwn2Eirwzyv6nuUB-KWA.png?q=20)
-
 ![img](https://miro.medium.com/max/700/1*ekbwn2Eirwzyv6nuUB-KWA.png)
 
 Esse *dataset* (Conjunto de dados) disponibilizava dados de um milhão de playlists, criadas por usuários, para que fossem desenvolvidos modelos de *machine learning* capazes de completar as playlists de forma automática.
