@@ -39,6 +39,10 @@ Além disso, foram feitas uma análise bivariada (PDF e CDF) , uma análise mult
 
 
 
+Para ver a rede de forma interativa clique [aqui](https://carlos1999.github.io/Network_Analysis_Spotify_Playlists/network/).
+
+
+
 ## :hammer_and_wrench: As principais tecnologias utilizadas foram:
 
 - Python;
