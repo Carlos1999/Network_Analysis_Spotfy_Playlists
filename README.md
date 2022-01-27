@@ -31,7 +31,7 @@ Exemplo de grafo
 
 Desse modo foi gerado o grafo utilizando uma parte do *dataset* (Com apenas 500 artistas) fornecido com o objetivo de realizar análises sobre a disposição da rede através de grandezas conhecidas, criando gráficos e exibindo os nós com valores mais importantes.
 
-Algumas métricas foram utilizadas para a realização da análise. As métricas globais foram: *Eccentriciy, periphery, radius* e *Center.*
+Algumas métricas foram utilizadas para a realização da análise. As métricas globais foram: *Eccentricity, periphery, radius* e *Center.*
 
 No que diz respeito ao ranqueamento dos nós (*Node Ranking*) as métricas estudadas foram: *Degree centrality, closeness centrality, Betweenness Centrality* e *EigenVector centrality.*
 
