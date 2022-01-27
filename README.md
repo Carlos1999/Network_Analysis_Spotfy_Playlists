@@ -16,8 +16,8 @@ No nosso caso, os dados foram utilizados para criar uma rede que tem como nós o
 
 Por exemplo, imagine uma playlist com os seguintes artistas:
 
-- Annita
-- Annita
+- Anitta
+- Anitta
 - Alok
 - Justin Bieber
 
